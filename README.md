@@ -6,20 +6,20 @@ This C++ program allows users to:
 
 📜 How It Works
 1️⃣ Menu Options
-
 1: Input temperatures and their units.
 2: Convert all temperatures to Fahrenheit.
 3: Display the highest, lowest, and average temperature.
 4: Exit the program.
-2️⃣ Temperature Conversion
 
+2️⃣ Temperature Conversion
 Celsius → Fahrenheit: F = (C × 1.8) + 32
 Kelvin → Fahrenheit: F = ((K - 273.15) × 1.8) + 32
 Fahrenheit remains unchanged.
-3️⃣ Temperature Analysis
 
+3️⃣ Temperature Analysis
 Finds the maximum and minimum temperature.
 Calculates the average temperature.
+
 🔧 How to Compile & Run
 sh
 Copy
